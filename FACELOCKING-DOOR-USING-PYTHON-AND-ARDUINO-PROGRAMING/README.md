@@ -13,10 +13,4 @@ A simple and effective smart door lock system using **Python** for face recognit
 
 ---
 
-## 📸 Face Recognition in Action
 
-### 🔹 Face Detected and Recognized
-![Arduino](FACELOCKING-DOOR-USING-PYTHON-AND-ARDUINO-PROGRAMING/photo/23.jpg)
-
-### 🔹 Door Unlocked (Servo Triggered)
-![Servo Motor](FACELOCKING-DOOR-USING-PYTHON-AND-ARDUINO-PROGRAMING/photo/25.jpg)
